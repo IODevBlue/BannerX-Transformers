@@ -160,11 +160,11 @@ task androidJar(type: Jar) {
 }
 task copyHtmlDoc(type: Copy, dependsOn: dokkaHtml) {
     from "build/dokka/html"
-    into "$rootProject.projectDir/_docs/html"
+    into "C:\\Github_Projects\\project-docs\\api\\android\\$moduleID\\html"
 }
 task copyJavadoc(type: Copy, dependsOn: dokkaJavadoc) {
     from "build/dokka/javadoc"
-    into "$rootProject.projectDir/_docs/javadoc"
+    into "C:\\Github_Projects\\project-docs\\api\\android\\$moduleID\\javadoc"
 }
 
 dependencies {
