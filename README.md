@@ -7,11 +7,11 @@ BannerX-Transformers
 Table of content
 ----------------
 - [Documentations](https://github.com/IODevBlue/BannerX-Transformers/tree/main#documentations)
-- [Uses](https://github.com/IODevBlue/BannerX-Transformerstree/main#uses)
-- [Installation](https://github.com/IODevBlue/BannerX-Transformerstree/main#installation)
-- [Contributions](https://github.com/IODevBlue/BannerX-Transformerstree/main#contributions)
-- [Change log](https://github.com/IODevBlue/BannerX-Transformerstree/main#change-log)
-- [License](https://github.com/IODevBlue/BannerX-Transformerstree/main#license)
+- [Uses](https://github.com/IODevBlue/BannerX-Transformers/tree/main#uses)
+- [Installation](https://github.com/IODevBlue/BannerX-Transformers/tree/main#installation)
+- [Contributions](https://github.com/IODevBlue/BannerX-Transformers/tree/main#contributions)
+- [Change log](https://github.com/IODevBlue/BannerX-Transformers/tree/main#change-log)
+- [License](https://github.com/IODevBlue/BannerX-Transformers/tree/main#license)
 
 Documentations
 --------------
