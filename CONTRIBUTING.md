@@ -47,6 +47,9 @@ Then retrieve a copy:
 implementation 'io.github.iodevblue:bannerx:1.0.0-SNAPSHOT'
 ```
 
+**NOTE:** All `BannerX` transformers **MUST** follow the naming pattern: (name)BannerTransformer.
+For example: GithubBannerTransformer, CommitBannerTransformer, CodeBannerTransformer etc.
+
 Every `BannerX` transformer extends the `BannerXTransformer` abstract class and **must** implement the `Parcelable` interface. 
 However, all transformer classes currently use the `@Parcelize` Kotlin annotation to automatically generate `Parcelable` methods, manual implementations of the `Parcelable` interface methods work fine as well.
 
