@@ -15,7 +15,7 @@ Table of content
 
 Documentations
 --------------
-Documentations are available online in [Javadoc](https://raw.githack.com/IODevBlue/BannerX-Transformers/main/_docs/javadoc/index.html) and [KDoc](https://raw.githack.com/IODevBlue/BannerX-Transformers/main/_docs/html/index.html).
+Documentations are available online in [Javadoc](https://raw.githack.com/IODevBlue/project-docs/main/api/android/bannerx-transformers/main/_docs/javadoc/index.html) and [KDoc](https://raw.githack.com/IODevBlue/project-docs/main/api/android/bannerx-transformers/main/_docs/html/index.html).
 
 Uses
 ----

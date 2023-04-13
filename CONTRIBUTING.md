@@ -75,7 +75,7 @@ private companion object: Parceler<AlphaBannerTransformer> {
 
 }
 ```
-Refer to the [AlphaBannerTransformer](https://github.com/IODevBlue/BannerX/tree/main/bannerx-transformers/src/main/kotlin/com/blueiobase/api/android/bannerx/transformers/AlphaBannerTransformer.kt) for more details.
+Refer to the [AlphaBannerTransformer](https://github.com/IODevBlue/BannerX-Transformers/tree/main/bannerx-transformers/src/main/kotlin/com/blueiobase/api/android/bannerx/transformers/AlphaBannerTransformer.kt) to see how it is applied.
 
 
 Concerning Issues
