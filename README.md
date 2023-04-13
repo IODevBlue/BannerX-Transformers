@@ -6,12 +6,12 @@ BannerX-Transformers
 
 Table of content
 ----------------
-- [Documentations](https://github.com/IODevBlue/BannerX-Transformers#documentations)
-- [Uses](https://github.com/IODevBlue/BannerX-Transformers#uses)
-- [Installation](https://github.com/IODevBlue/BannerX-Transformers#installation)
-- [Contributions](https://github.com/IODevBlue/BannerX-Transformers#contributions)
-- [Change log](https://github.com/IODevBlue/BannerX-Transformers#change-log)
-- [License](https://github.com/IODevBlue/BannerX-Transformers#license)
+- [Documentations](https://github.com/IODevBlue/BannerX-Transformers/tree/main#documentations)
+- [Uses](https://github.com/IODevBlue/BannerX-Transformerstree/main#uses)
+- [Installation](https://github.com/IODevBlue/BannerX-Transformerstree/main#installation)
+- [Contributions](https://github.com/IODevBlue/BannerX-Transformerstree/main#contributions)
+- [Change log](https://github.com/IODevBlue/BannerX-Transformerstree/main#change-log)
+- [License](https://github.com/IODevBlue/BannerX-Transformerstree/main#license)
 
 Documentations
 --------------
@@ -114,7 +114,7 @@ All developing implementations and proposed changes are pushed to the [developme
 
 To note if current developments are being made, there would be more commits in the [development](https://github.com/IODevBlue/BannerX-Transformers/tree/development) branch than in the [main](https://github.com/IODevBlue/BannerX-Transformers/tree/main) branch.
 
-A [BannerX](https://github.com/IODevBlue/BannerX) transformer is simply a [ViewPager2.PageTransformer](https://developer.android.con/reference/kotlin/androidx/viewpager2/widget/ViewPager2.PageTransformer) that implements the `Parcelable` interface.
+A [BannerX](https://github.com/IODevBlue/BannerX) transformer is simply a [ViewPager2.PageTransformer](https://developer.android.com/reference/kotlin/androidx/viewpager2/widget/ViewPager2.PageTransformer) that implements the `Parcelable` interface.
 
 Check the [Contributing](https://github.com/IODevBlue/BannerX-Transformers/blob/development/CONTRIBUTING.md) for more information.
 
