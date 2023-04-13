@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"com.blueiobase.api.android.bannerx.transformers","url":"com/blueiobase/api/android/bannerx/transformers/package-summary.html"}, {"l":"All packages","url":"index.html"}]

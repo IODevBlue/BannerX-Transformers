@@ -1,0 +1,6 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.blueiobase.api.android.bannerx.transformers/FlipBannerTransformer.Companion///PointingToDeclaration/com/blueiobase/api/android/bannerx/transformers/FlipBannerTransformer.Companion.html
+$dokka.location:com.blueiobase.api.android.bannerx.transformers/SidedStackBannerTransformer.Companion///PointingToDeclaration/com/blueiobase/api/android/bannerx/transformers/SidedStackBannerTransformer.Companion.html
+com.blueiobase.api.android.bannerx.transformers
+

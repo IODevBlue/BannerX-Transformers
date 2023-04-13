@@ -1,0 +1,1 @@
+sourceset_dependencies='{":bannerx-transformers:dokkaHtml/androidTestRelease":[],":bannerx-transformers:dokkaHtml/debug":[],":bannerx-transformers:dokkaHtml/main":[],":bannerx-transformers:dokkaHtml/release":[],":bannerx-transformers:dokkaHtml/testFixtures":[],":bannerx-transformers:dokkaHtml/testFixturesDebug":[],":bannerx-transformers:dokkaHtml/testFixturesRelease":[]}'
