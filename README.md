@@ -10,7 +10,7 @@ Table of content
 - [Uses](https://github.com/IODevBlue/BannerX-Transformers/tree/main#uses)
 - [Installation](https://github.com/IODevBlue/BannerX-Transformers/tree/main#installation)
 - [Contributions](https://github.com/IODevBlue/BannerX-Transformers/tree/main#contributions)
-- [Change log](https://github.com/IODevBlue/BannerX-Transformers/tree/main#change-log)
+- [Changelog](https://github.com/IODevBlue/BannerX-Transformers/tree/main#changelog)
 - [License](https://github.com/IODevBlue/BannerX-Transformers/tree/main#license)
 
 Documentations
